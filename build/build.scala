@@ -1,3 +1,3 @@
 import cbt._
-// cbt:https://github.com/cvogt/cbt.git#95728f6041a32e081a1f4129b8483ef622179b45
+// cbt:https://github.com/cvogt/cbt.git#3a0ac5f8016a6f6c908c0109006e065ac25100b7
 class Build(val context: Context) extends Plugin
