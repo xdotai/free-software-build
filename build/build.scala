@@ -1,3 +1,4 @@
 import cbt._
-// cbt:https://github.com/cvogt/cbt.git#3a0ac5f8016a6f6c908c0109006e065ac25100b7
+// disable fixed cbt version until stable release is out
+// c-bt:https://github.com/cvogt/cbt.git#cf0d8bcc34bacbe2828ae38377c837a15f0cac76
 class Build(val context: Context) extends Plugin
